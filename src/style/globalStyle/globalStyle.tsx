@@ -4,6 +4,10 @@ import reset from 'styled-reset';
 const GlobalStyle = createGlobalStyle`
   ${reset};
 
+  body {
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
   
   html, body, header, footer, section, article,
   h1, h2, h3, h4, h5, h6, p, main, aside, table, thead, tbody, tr, th, td,
@@ -15,6 +19,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     border: 0;
+    list-style: none
   }
 
   a{
@@ -25,3 +30,5 @@ const GlobalStyle = createGlobalStyle`
     box-sizing:border-box;
   };
 `;
+
+export default GlobalStyle;
