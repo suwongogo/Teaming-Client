@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./Main\";","map":{"version":3,"sources":["/Users/leesuwon/Documents/timing-client/src/components/Layout/Main/index.ts"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR","sourcesContent":["export {default} from './Main';\n"]},"metadata":{},"sourceType":"module"}

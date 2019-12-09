@@ -1,9 +1,16 @@
 {
   "presets": ["next/babel"],
   "plugins": [
+    ["styled-components", {"ssr": true}],
     [
-      "styled-components",
-      {"ssr": true, "displayName": true, "preprocess": false}
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "@src": "./src"
+        },
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
     ]
   ]
 }
