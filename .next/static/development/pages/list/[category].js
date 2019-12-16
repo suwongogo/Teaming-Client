@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/list/[category].js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\list\\[category].js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
 /*!***********************************************************************!*\
@@ -3617,9 +3617,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_5f137288facb1107b491
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=%2FUsers%2Fleesuwon%2FDocuments%2Ftiming-client%2Fsrc%2Fpages%2Flist%2F%5Bcategory%5D.tsx!./":
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=C%3A%5CUsers%5CLEE%5CDocuments%5CTeaming-Client%5Csrc%5Cpages%5Clist%5C%5Bcategory%5D.tsx!./":
 /*!***************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=%2FUsers%2Fleesuwon%2FDocuments%2Ftiming-client%2Fsrc%2Fpages%2Flist%2F%5Bcategory%5D.tsx ***!
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=C%3A%5CUsers%5CLEE%5CDocuments%5CTeaming-Client%5Csrc%5Cpages%5Clist%5C%5Bcategory%5D.tsx ***!
   \***************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -7683,7 +7683,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/Users/leesuwon/Documents/timing-client/src/pages/list/[category].tsx";
+var _jsxFileName = "C:\\Users\\LEE\\Documents\\Teaming-Client\\src\\pages\\list\\[category].tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -7705,14 +7705,14 @@ var category = function category() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!*******************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=%2FUsers%2Fleesuwon%2FDocuments%2Ftiming-client%2Fsrc%2Fpages%2Flist%2F%5Bcategory%5D.tsx ***!
+  !*** multi next-client-pages-loader?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=C%3A%5CUsers%5CLEE%5CDocuments%5CTeaming-Client%5Csrc%5Cpages%5Clist%5C%5Bcategory%5D.tsx ***!
   \*******************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=%2FUsers%2Fleesuwon%2FDocuments%2Ftiming-client%2Fsrc%2Fpages%2Flist%2F%5Bcategory%5D.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=%2FUsers%2Fleesuwon%2FDocuments%2Ftiming-client%2Fsrc%2Fpages%2Flist%2F%5Bcategory%5D.tsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=C%3A%5CUsers%5CLEE%5CDocuments%5CTeaming-Client%5Csrc%5Cpages%5Clist%5C%5Bcategory%5D.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Flist%2F%5Bcategory%5D&absolutePagePath=C%3A%5CUsers%5CLEE%5CDocuments%5CTeaming-Client%5Csrc%5Cpages%5Clist%5C%5Bcategory%5D.tsx!./");
 
 
 /***/ }),
@@ -7728,5 +7728,5 @@ module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=[category].js.map

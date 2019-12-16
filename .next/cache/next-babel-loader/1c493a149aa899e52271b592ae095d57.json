@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./Header\";","map":{"version":3,"sources":["C:/Users/LEE/Documents/Teaming-Client/src/components/Layout/Header/index.ts"],"names":["default"],"mappings":"AAAA,SAAQA,OAAR","sourcesContent":["export {default} from './Header';\r\n"]},"metadata":{},"sourceType":"module"}

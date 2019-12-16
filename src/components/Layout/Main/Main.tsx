@@ -31,7 +31,7 @@ const Main: FC<IProps> = ({children}) => {
   return (
     <MainWrapper>
       <Aside>
-        <MyInfo />
+        {/* <MyInfo /> */}
         <Category />
       </Aside>
       <Section>{children}</Section>
